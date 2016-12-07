@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="30dp"
+    android:padding="150dp"
     android:background="@color/colorBlueLight"
     android:gravity="center"
     tools:context="org.example.asteroides.MainActivity"
